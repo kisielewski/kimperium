@@ -6,5 +6,6 @@
 </head>
 <body style="background-color: yellow;">
   <h1>Przykładowa strona</h1>
+  <h2>Coś tam coś tam</h2>
 </body>
 </html>
