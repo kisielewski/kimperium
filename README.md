@@ -1,2 +1,2 @@
-# kimperium
-Gra przeglądarkowa KIMBI
+# Kimperium
+Browser game KIMBI
